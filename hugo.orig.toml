@@ -1,0 +1,4 @@
+baseURL = 'https://salloum.ch/'
+languageCode = 'en-us'
+title = 'Personal Blog'
+theme = 'hermit-v2'
